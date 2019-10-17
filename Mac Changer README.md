@@ -6,8 +6,7 @@ h, --help            show this help message and exit
   -m NEW_MAC, --mac=NEW_MAC
                         New Mac address
 
-e
-xample: 
+example: 
 root:
 python mac_changer.py -i lo  -m 00:11:22:33:44:33
 non-root user:
